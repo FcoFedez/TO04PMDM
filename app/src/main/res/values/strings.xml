@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PMDP04_TOFranciscoFernandez</string>
+    <string name="grafica">Tarjeta gráfica GT1080</string>
+    <string name="placaBase">Placa base ASROCK</string>
+    <string name="raton">Ratón gaming</string>
+    <string name="ssd">Disco duro ssd M.2</string>
+    <string name="teclado">Teclado inalambrico</string>
+    <string name="torre">Torre gaming de oferta!!</string>
+</resources>
